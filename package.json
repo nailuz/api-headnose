@@ -1,0 +1,27 @@
+{
+  "name": "api-headnose",
+  "version": "1.0.0",
+  "description": "api to test security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailuz/api-headnose.git"
+  },
+  "keywords": [
+    "api",
+    "hacking",
+    "security"
+  ],
+  "author": "HeadNose Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailuz/api-headnose/issues"
+  },
+  "homepage": "https://github.com/nailuz/api-headnose#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
